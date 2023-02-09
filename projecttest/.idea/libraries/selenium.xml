@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="selenium">
+    <CLASSES>
+      <root url="file://D:/chromedriver/selenium" />
+      <root url="file://D:/chromedriver/selenium" />
+      <root url="file://D:/chromedriver/selenium/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/chromedriver/selenium" />
+      <root url="file://D:/chromedriver/selenium" />
+    </SOURCES>
+    <jarDirectory url="file://D:/chromedriver/selenium" recursive="false" />
+    <jarDirectory url="file://D:/chromedriver/selenium" recursive="false" />
+    <jarDirectory url="file://D:/chromedriver/selenium/lib" recursive="false" />
+    <jarDirectory url="file://D:/chromedriver/selenium" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://D:/chromedriver/selenium" recursive="false" type="SOURCES" />
+  </library>
+</component>
